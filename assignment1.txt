@@ -1,0 +1,2 @@
+full stack - a website for querying mango yields
+ml         - predicting mango yields
