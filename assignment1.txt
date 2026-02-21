@@ -1,2 +1,3 @@
-full stack - a website for querying mango yields
-ml         - predicting mango yields
+ML model predictions -  https://github.com/akhil0478/crop-price-prediction-service
+ML model             -  https://github.com/akhil0478/crop-price-ml-training
+Full Stack app       -  https://github.com/akhil0478/full-stack
