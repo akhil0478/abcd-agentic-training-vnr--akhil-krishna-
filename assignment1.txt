@@ -2,3 +2,4 @@ ML model predictions -  https://github.com/akhil0478/crop-price-prediction-servi
 ML model             -  https://github.com/akhil0478/crop-price-ml-training
 Full Stack app       -  https://github.com/akhil0478/full-stack
 string tokenisation  -  https://github.com/akhil0478/string-tokenisation
+cosine search       -   https://github.com/akhil0478/cosine-search
